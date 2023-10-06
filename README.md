@@ -2,7 +2,10 @@
 
 <h1 align="center">Emelito</h1>
 
-Exploring the world of malware development and exploitation 🌐🔬
+This is my Github where I'll keep track of my journy while studying 
+Computer Science and working for Cisco. I would like to learn more
+about the world of malware development and exploitation 🌐🔬
+
 
 - 🔭 I’m currently working on **creating a basic RAT**
 
@@ -14,8 +17,7 @@ Exploring the world of malware development and exploitation 🌐🔬
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)]
- <img height=600 width=200 src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true" />
-</a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
   
 
 
