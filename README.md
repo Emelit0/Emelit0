@@ -3,6 +3,8 @@
 
 <h1 align="center">Emelito</h1>
 
+Exploring the world of malware development and exploitation 🌐🔬
+
 - 🔭 I’m currently working on **creating a basic RAT**
 
 - 🌱 I’m currently looking forward to learn **binary exploitation**
