@@ -8,7 +8,7 @@
       </div>
         <div style="padding: 100px">
         <a>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=react&count_private=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=dark&count_private=true&hide_border=true">
         </a>
       </div>
     </td>
@@ -23,17 +23,17 @@
       </div>
       <div style="padding: 100px;">
         <a>
-          <img src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=react&count_private=true&hide_border=true&line_height=20">
+          <img src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=dark&count_private=true&hide_border=true&line_height=20">
         </a>
       </div>
     </td>
   </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=lsb_steganography&theme=react&show)](https://github.com/Emelit0/lsb_steganography)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=Splinter&theme=react&show)](https://github.com/Emelit0/Splinter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=vscode-portfolio&theme=react&show)](https://github.com/Emelit0/vscode-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=webshop&theme=react&show)](https://github.com/Emelit0/webshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=lsb_steganography&theme=dark&show)](https://github.com/Emelit0/lsb_steganography)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=Splinter&theme=dark&show)](https://github.com/Emelit0/Splinter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=vscode-portfolio&theme=dark&show)](https://github.com/Emelit0/vscode-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=webshop&theme=dark&show&border=no)](https://github.com/Emelit0/webshop)
 
 - 🔭 I’m currently working on **creating a basic RAT**
 
