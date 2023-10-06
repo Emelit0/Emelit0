@@ -12,13 +12,10 @@ Exploring the world of malware development and exploitation 🌐🔬
 </p>
 
 
-<table>
-    <tr>
-        <td><img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)</td>
-        <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)</td>
-    </tr>
-</table>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
+  
 
 
 
