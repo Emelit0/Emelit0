@@ -8,7 +8,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=lsb_steganography&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=Splinter&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=vscode-portfolio&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=webshop&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=lsb_steganography&theme=transparent&show)](https://github.com/Emelit0/lsb_steganography)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=Splinter&theme=transparent&show)](https://github.com/Emelit0/Splinter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=vscode-portfolio&theme=transparent&show)](https://github.com/Emelit0/vscode-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=webshop&theme=transparent&show)](https://github.com/Emelit0/webshop)
