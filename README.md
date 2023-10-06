@@ -37,7 +37,7 @@
 
 - 🔭 I’m currently working on **creating a basic RAT**
 
-- 🌱 I’m currently looking forward to learn **binary exploitation**
+- 🌱 Also looking forward to dive deeper into **binary exploitation**
 
 - 👯 I’m looking to collaborate on **creating a c2 framework**
 
