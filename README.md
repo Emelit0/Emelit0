@@ -41,14 +41,14 @@ about the world of malware development and exploitation 🌐🔬
       </div>
       <div style="padding: 100px;">
         <a>
-          <img src="https://github-readme-stats.vercel.app/api?username=MaxBrandtner&theme=tokyonight&count_private=true&hide_border=true&line_height=20">
+          <img src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&count_private=true&hide_border=true&line_height=20">
         </a>
       </div>  
     </td>
     <td style="border: none; min-width: 200px; min-height: 200px;">
       <div style="padding: 100px">
         <a>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrandtner&layout=pie&theme=tokyonight&count_private=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=tokyonight&count_private=true&hide_border=true">
         </a>
       </div>
     </td>
