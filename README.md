@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Emelito</h1>
+<h1 align="center">Emelito</h1>
 
 - 🔭 I’m currently working on **creating a basic RAT**
 
