@@ -11,14 +11,49 @@ about the world of malware development and exploitation 🌐🔬
 
 - 🌱 I’m currently looking forward to learn **binary exploitation**
 
-<p align="left">
-</p>
+<table style="border: none">
+ <tr style="border: none">
+  
+ </tr>
+</table>
 
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)]
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
-  
+
+
+
+ 
+  <table style="border: none;">
+  <tr style="borer: none;">
+    <td style="border: none;">
+      <div style="margin: 50px;">
+        CS Student for Cisco
+      </div>
+      <div style="padding: 50px;">
+        <p>
+         This is my Github where I'll keep track of my journy <br>
+         while studying Computer Science and working for <br>
+         Cisco. I would like to learn more about the world <br>
+         <b>of malware development and exploitation 🌐🔬</b>
+        </p>
+      </div>
+      <div style="padding: 100px;">
+        <a>
+          <img src="https://github-readme-stats.vercel.app/api?username=MaxBrandtner&theme=tokyonight&count_private=true&hide_border=true&line_height=20">
+        </a>
+      </div>  
+    </td>
+    <td style="border: none; min-width: 200px; min-height: 200px;">
+      <div style="padding: 100px">
+        <a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBrandtner&layout=pie&theme=tokyonight&count_private=true&hide_border=true">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
