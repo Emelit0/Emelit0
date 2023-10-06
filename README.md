@@ -11,19 +11,6 @@ about the world of malware development and exploitation 🌐🔬
 
 - 🌱 I’m currently looking forward to learn **binary exploitation**
 
-<table style="border: none">
- <tr style="border: none">
-  
- </tr>
-</table>
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)]
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
-
-
-
  
   <table style="border: none;">
   <tr style="borer: none;">
@@ -48,7 +35,7 @@ about the world of malware development and exploitation 🌐🔬
     <td style="border: none; min-width: 200px; min-height: 200px;">
       <div style="padding: 100px">
         <a>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=tokyonight&count_private=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=tranparent&count_private=true&hide_border=true">
         </a>
       </div>
     </td>
