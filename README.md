@@ -14,7 +14,7 @@ Exploring the world of malware development and exploitation 🌐🔬
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&show)](https://github.com/Emelit0/github-readme-stats)]
- <img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true" />
+ <img height=600 width=200 src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true" />
 </a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&show_icons=true)
   
 
