@@ -1,11 +1,6 @@
 
 
 <h1 align="center">Emelito</h1>
-
-- 🔭 I’m currently working on **creating a basic RAT**
-
-- 🌱 I’m currently looking forward to learn **binary exploitation**
-
  
   <table style="border: none;">
   <tr style="borer: none;">
@@ -45,6 +40,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=Splinter&theme=transparent&show)](https://github.com/Emelit0/Splinter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=vscode-portfolio&theme=transparent&show)](https://github.com/Emelit0/vscode-portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emelit0&repo=webshop&theme=transparent&show)](https://github.com/Emelit0/webshop)
+
+
+- 🔭 I’m currently working on **creating a basic RAT**
+
+- 🌱 I’m currently looking forward to learn **binary exploitation**
+
+- 👯 I’m looking to collaborate on **creating a c2 framework**
 
 
 <h3 align="left">Languages and Tools:</h3>
