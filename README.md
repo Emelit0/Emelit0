@@ -2,11 +2,6 @@
 
 <h1 align="center">Emelito</h1>
 
-This is my Github where I'll keep track of my journy while studying 
-Computer Science and working for Cisco. I would like to learn more
-about the world of malware development and exploitation 🌐🔬
-
-
 - 🔭 I’m currently working on **creating a basic RAT**
 
 - 🌱 I’m currently looking forward to learn **binary exploitation**
@@ -18,7 +13,15 @@ about the world of malware development and exploitation 🌐🔬
       <div style="margin: 50px;">
         CS Student for Cisco
       </div>
-      <div style="padding: 50px;">
+        <div style="padding: 100px">
+        <a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=transparent&count_private=true&hide_border=true">
+        </a>
+      </div>
+    </td>
+    <td style="border: none; min-width: 200px; min-height: 200px;">
+
+    <div style="padding: 50px;">
         <p>
          This is my Github where I'll keep track of my journy <br>
          while studying Computer Science and working for <br>
@@ -29,13 +32,6 @@ about the world of malware development and exploitation 🌐🔬
       <div style="padding: 100px;">
         <a>
           <img src="https://github-readme-stats.vercel.app/api?username=Emelit0&theme=transparent&count_private=true&hide_border=true&line_height=20">
-        </a>
-      </div>  
-    </td>
-    <td style="border: none; min-width: 200px; min-height: 200px;">
-      <div style="padding: 100px">
-        <a>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emelit0&layout=pie&theme=tranparent&count_private=true&hide_border=true">
         </a>
       </div>
     </td>
