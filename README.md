@@ -11,6 +11,9 @@
 \\___[ RAT using multiple remote control techniques<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `go`,`powershell` ]
 
+- `💾` **`Malsrc`**<br>
+\\___[ snippets of malware techniques<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c/c++`,`asm` ]
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,javascript,linux)](https://skillicons.dev)
